@@ -1,0 +1,8 @@
+broadcasts:
+You are in the toxic gas!
+The toxic gas will be released in 3 minutes.
+Proceed to the safe area marked on your map.
+
+chat broadcast:
+person1 killed by person2 with weapon: x remain
+person1 burned to death

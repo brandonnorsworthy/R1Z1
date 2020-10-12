@@ -1,5 +1,0 @@
-kill feed
-track who died
-who is left
-circle on map
-death circle

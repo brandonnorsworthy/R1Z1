@@ -1,0 +1,1 @@
+@RD /S /Q "T:\Servers\Rust1Z1\userdata"

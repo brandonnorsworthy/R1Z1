@@ -1,7 +1,0 @@
-Once you have made your first purchase you will be unable to instantly download. Due to the recent influx of fraudulent purchases we now need to verify your account before we can grant access to download.
-To verify your account/purchase please email admin@chaoscode.io from the email address your PayPal account is registered to and state your ChaosCode username and the name of the plugin you have purchased.
-Once this is done access to your download your purchase will be granted.
-
-Please be aware that the verification process may take up to 24 hours!
-
-We apologise for any inconvenience this may cause
