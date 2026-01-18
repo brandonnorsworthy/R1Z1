@@ -20,8 +20,11 @@ Roads Complete
 ![](<Progress Images/R1Z1 Path Progress 1-18-26.png>)
 
 Map Version To Be Developed:
-Battle Royal
-Survival
+<br/>
+-Battle Royal
+<br/>
+-Survival
+<br/>
 
 Survival version could stem off the BR version but add in a custom subway underground or trading posts/ custom monuments to compensate for the missing Rust Vanilla ones.
 
