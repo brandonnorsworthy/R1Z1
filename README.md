@@ -3,7 +3,8 @@
 
 2026 Reboot!
 
-Successfully imported H1Z1 Game into Unity and export full terrain heightmap as well as a building blockout heightmap.
+Successfully imported H1Z1 Game into Unity and exported a full terrain heightmap as well as a building blockout heightmap in 8k and 4k.
+<br/>
 R1Z1 Terrain
 ![](<Progress Images/R1Z1 Terrain.png>)
 
