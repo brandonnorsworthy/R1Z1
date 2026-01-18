@@ -1,14 +1,39 @@
 # R1Z1
  h1z1 remake within rust
 
-Working on translating the heightmap from the ingame map
-![](<Progress Images/Annotation 2019-09-23 164215.png>)
+2026 Reboot!
 
-Finished Heightmap to import as baseline for custom rust map
-![custom height map](<Map Resources/Heightmaps/testfullmap-7.png>)
+Successfully imported H1Z1 Game into Unity and export full terrain heightmap as well as a building blockout heightmap.
+R1Z1 Terrain
+![](<Progress Images/R1Z1 Terrain.png>)
 
-Bubbas Truck Stop Blocked out
-![](<Progress Images/blocking out bubbas truck stop.png>)
+PV Blockout Heightmap
+![](<Progress Images/R1Z1 PV Blockout Progress 1-18-26.png>)
 
-I decorated all of bubbas truck stop but kinda abandoned the project :(
-![](<Progress Images/road after.png>)
+Cranberry Blockout Heightmap
+![](<Progress Images/R1Z1 Cranberry Blockout Progress 1-18-26.png>)
+
+Bubbas & Lonepine Blockout
+![](<Progress Images/R1Z1 Bubbas & Lonepine Blockout Progress 1-18-26.png>)
+
+Roads Complete
+![](<Progress Images/R1Z1 Path Progress 1-18-26.png>)
+
+Map Version To Be Developed:
+-Battle Royal
+-Survival
+
+Survival version could stem off the BR version but add in a custom subway underground or trading posts/ custom monuments to compensate for the missing Rust Vanilla ones.
+
+Design choices to be made:
+•Cargo Ship:
+ -Turn map into island for Cargo Ship spawn
+ -Cut out entrance/exit for Cargo Ship and have it follow the ingame river system
+ -Ommit including the Cargo Ship
+
+•Underwater Labs:
+ -Hollow out existing lakes and put them in the lakes
+ -Turn map into island for Vanilla type spawning
+
+•Bradley Spawn:
+ -Path
