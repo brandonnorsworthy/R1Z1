@@ -26,16 +26,26 @@ Survival
 Survival version could stem off the BR version but add in a custom subway underground or trading posts/ custom monuments to compensate for the missing Rust Vanilla ones.
 
 Design choices to be made:
+<br/>
 •Cargo Ship:
- Turn map into island for Cargo Ship spawn
- Cut out entrance/exit for Cargo Ship and have it follow the ingame river system
- Ommit including the Cargo Ship
+<br/>
+ -Turn map into island for Cargo Ship spawn
+ <br/>
+ -Cut out entrance/exit for Cargo Ship and have it follow the ingame river system
+ <br/>
+ -Ommit including the Cargo Ship
+ <br/>
 
 •Underwater Labs:
- Hollow out existing lakes and put them in the lakes
- Turn map into island for Vanilla type spawning
+<br/>
+ -Hollow out existing lakes and put them in the lakes
+ <br/>
+ -Turn map into island for Vanilla type spawning
+ <br/>
 
 •Bradley Spawn:
- Path
+<br/>
+ -Path
+<br/>
 
 More To Come...
