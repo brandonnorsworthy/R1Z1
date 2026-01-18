@@ -1,6 +1,10 @@
 Heightmaps listed here are for refrence only due to the sensativity of their content.
 
 H1Z1 Heightmap.png
+H1Z1 Heightmap.raw
 H1Z1 Heightmap 8k.png
+H1Z1 Heightmap 8k.raw
 H1Z1 Blockout Heightmap.png
+H1Z1 Blockout Heightmap.raw
 H1Z1 Blockout Heightmap 8k.png
+H1Z1 Blockout Heightmap 8k.raw
