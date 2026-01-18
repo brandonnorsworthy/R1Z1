@@ -1,0 +1,45 @@
+To use this Prefab monument please install 
+RUST EDIT DLL 
+https://github.com/k1lly0u/Oxide.Ext.RustEdit
+ 
+Install to your Dedicated Data / Managed Folder
+
+
+
+
+====================================
+NEW UPDATE FOR HDRP BRANCH
+====================================
+If your want to add this to your map for the upincoming HDRP update in MAY 
+head over to Rust Edit Discord and Look for the Releases Channel. 
+Version 1.1.37 Rust Edit will be the edittor for HDRP Branch.
+
+To use new Editor you must install Rust staging from your Steam Directory then 
+Right click the program from your steam games list and click Properties,
+Change Beta to Aux01
+
+
+----------------------------------------------------------------------------------------------
+To add to your Map, just install the prefab files to Rust Edit / Custom Prefabs Folder!
+Plop it down and apply the heights, splats, biomes, topology and alpha. and you should be good to go. 
+Id recomend not breaking the prefab into seperate parts and leave it as is. By breaking the prefab from 
+its group some prefabs will rotate and resize a bit.
+
+
+This Pack is an update to Little Cabin, My most Downloaded Free Prefab.As such I have included another Update to the now Little Cabins.
+It started with one normal Cabin in the forest and now has a christmas Version, and Swamp Version.
+
+
+
+======================================================================
+A Big Thankyou to All who have Purchased this Prefab!!
+======================================================================
+
+50% of all my sales made in the month of May will go toward a charity. That charity will be 
+https://www.paypal.com/fundraiser/charity/159039
+
+As most do not know I lost my Father to Stage 4 Brain Cancer back in 2018, 
+We had no time to prepare for it, The doctors caught it late and he was given a few months to live. 
+I donate periodically to this fundraiser so that others may have the chance I never had,
+I want others to get more time with their love ones and if a single donation can help them live 
+just a little easier and get even one more minute thats enough. Thanks again -Nox

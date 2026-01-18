@@ -1,0 +1,31 @@
+Upon purchasing any content from lone.designs you hereby agree to the terms and service listed below.
+
+TOS/Restrictions
+Below are the following rules and TOS (Terms of Service) you are agreeing to when purchasing and using my custom map and prefabs. Failure to follow may/will result in community ban/block 
+as well as reported to the map development team(s). Additionally if unauthorized use of my products are found it will result in a DMCA takedown, "A DMCA takedown refers to a notice sent because a copyright owner believes someone has posted an infringement and they want it removed without the hassle of filing an infringement lawsuit. ... The copyright owner typically notifies the web provider that hosts the site (the Internet Service Provider or ISP)."
+(Return Policy)
+Returns will not be accepted as it's a downloadable content which can not be ‘undownloaded’ unless due to specific situations listed below
+-If product was purchased multiple times. If so please contact me (Lone#1337) on discord and I can further assist as soon as possible. 
+
+Otherwise there is no other situation in which we'd accept a refund as I hope the reader of this understands
+
+(Use of Product)
+By downloading my maps/prefabs or any other works you may use these on your maps as you please, however you may NOT resell these products or in any way associate them in 
+a commercial use such as using one of my maps/prefabs in your own map. This includes minor editing to my work and using it for your own commercial applications. In addition any other
+redistribution of my maps is STRICTLY prohibited and will result in a ban as well as placed on a watch list for other map makers and additionally reported to other server owners. 
+
+Anyone somehow acquiring any of my paid work and/or using on their server and/or distributing to others will result in a community ban amongst all my platforms, the rust map making discord community,
+and may result in a DMCA takedown.)
+
+All payable products must be a 1:1 ratio between community and product. Meaning one community owner has rights to use my maps as their please, however cross community owners/partnerships is prohibited
+as that would be redistributing my products to others who have not purchased them. For specific situations please reach out to me via discord if you have any questions prior/post purchase (Lone#1337)
+
+(Other Important Info)
+Nothing is perfect and bugs may come up. If you happen to see/find a bug please post in the #map-bugs channel on my discord (https://discord.gg/aa7nA4D)
+Expect occasional updates for my content as I optimize/tweak them on a regular basis for maximum performance for clients running them. 
+
+
+Copyright (c) 2019 Lone.Design (the “Owner”)
+Permission is hereby granted, free of charge, to any person obtaining a copy of this .map file (the "Software"), to copy as a complete file without modification and load and access the Software for use in their personal capacity only in respect of their access to and use of Rust game servers hosted by or on behalf of the Owner but not otherwise. No permission is granted by this license to modify, merge (other than temporarily in the course of its use within a Rust game server hosted by or on behalf of the Owner), publish, distribute, sublicense or sell copies of the Software, or to permit persons to whom the Software is furnished to do so, or to use or copy the Software otherwise than as set out above. ALL RIGHTS RESERVED.
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

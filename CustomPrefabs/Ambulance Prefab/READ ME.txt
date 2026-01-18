@@ -1,0 +1,21 @@
+Thank you for downloading my prefab!
+
+INSTALLING:
+1. Open your RustEdit root directory. 
+2. Find the "CustomPrefabs" folder.
+3. Drag and drop all files (except for this .txt file) in that folder.
+4. Make sure you have the RustEdit DLL installed 
+https://www.rustedit.io/threads/rustedit-oxide-umod-extension.695/
+
+
+TOS: When using it in a paid map that is planned on being released to the public contact me and we might be able to work something out,
+otherwise no using it in any paid map or prefab.
+
+    • You are not required to credit me.
+    • You can use it on any kind of server without asking for permission.
+    • No selling
+   
+   
+Snap the Prefab to the ground.
+
+Contact me on discord: Squishy#1140
