@@ -1,0 +1,26 @@
+Terrain Map Import Settings:
+-Map Size: 6000
+-Heightmap Resolution: 4097
+-Alphamap Resoltuion: 4096
+-Splat Texture: Grass
+-Biome: Temperate
+
+Minimum Range: 0
+Maximum Range: 539
+Smoothing Passes: 5
+
+
+Blockout Map Import Settings:
+-Map Size: 6000
+-Heightmap Resolution: 4097
+-Alphamap Resoltuion: 4096
+-Splat Texture: Grass
+-Biome: Temperate
+
+Minimum Range: 0
+Maximum Range: 539
+Smoothing Passes: 0
+
+
+
+These settings put the terrain at -500 to -144 in RustEdit. This technically puts the map under the ocean but server commands can be used to set Sea level so this is a non-issue. If Underwater labs are decided to be added, then import settings may change.
