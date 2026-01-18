@@ -22,5 +22,11 @@ Maximum Range: 539
 Smoothing Passes: 0
 
 
+Unity Export Settings:
+Map Height Minimum: 0
+Map Height Maximum: 536.16
+Map Bounds Size: 8192x8192
+Resolution: 4097
+8k Resolution: 8193
 
 These settings put the terrain at -500 to -144 in RustEdit. This technically puts the map under the ocean but server commands can be used to set Sea level so this is a non-issue. If Underwater labs are decided to be added, then import settings may change.
