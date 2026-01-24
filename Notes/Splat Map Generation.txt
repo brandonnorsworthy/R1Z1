@@ -1,1 +1,0 @@
-Exporting the map texture from unity and converting it to a Rust splat map would be easy, but importing the splat map into Rust or RustEdit has proven challenging. If this can be solved that would be a big time save.

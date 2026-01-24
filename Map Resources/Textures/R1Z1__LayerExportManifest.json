@@ -1,0 +1,234 @@
+{
+    "toolName": "RME Merged Layer IO",
+    "toolVersion": "1.0.0",
+    "unityVersion": "2022.3.62f3",
+    "exportedAtUtc": "2026-01-24T16:47:00Z",
+    "mapName": "R1Z1",
+    "splatRes": 4096,
+    "alphaRes": 4096,
+    "flipYOnExport": false,
+    "flipYOnImport": false,
+    "images": [
+        {
+            "fileName": "R1Z1__Ground__p01__R-Dirt__G-Snow__B-Sand.png",
+            "layerType": "Ground",
+            "page": 1,
+            "mapping": {
+                "r": "Dirt",
+                "g": "Snow",
+                "b": "Sand",
+                "rIndex": 0,
+                "gIndex": 1,
+                "bIndex": 2
+            }
+        },
+        {
+            "fileName": "R1Z1__Ground__p02__R-Rock__G-Grass__B-Forest.png",
+            "layerType": "Ground",
+            "page": 2,
+            "mapping": {
+                "r": "Rock",
+                "g": "Grass",
+                "b": "Forest",
+                "rIndex": 3,
+                "gIndex": 4,
+                "bIndex": 5
+            }
+        },
+        {
+            "fileName": "R1Z1__Ground__p03__R-Stones__G-Gravel__B-None.png",
+            "layerType": "Ground",
+            "page": 3,
+            "mapping": {
+                "r": "Stones",
+                "g": "Gravel",
+                "b": "None",
+                "rIndex": 6,
+                "gIndex": 7,
+                "bIndex": -1
+            }
+        },
+        {
+            "fileName": "R1Z1__Biome__p01__R-Arid__G-Temperate__B-Tundra.png",
+            "layerType": "Biome",
+            "page": 1,
+            "mapping": {
+                "r": "Arid",
+                "g": "Temperate",
+                "b": "Tundra",
+                "rIndex": 0,
+                "gIndex": 1,
+                "bIndex": 2
+            }
+        },
+        {
+            "fileName": "R1Z1__Biome__p02__R-Arctic__G-Jungle__B-None.png",
+            "layerType": "Biome",
+            "page": 2,
+            "mapping": {
+                "r": "Arctic",
+                "g": "Jungle",
+                "b": "None",
+                "rIndex": 3,
+                "gIndex": 4,
+                "bIndex": -1
+            }
+        },
+        {
+            "fileName": "R1Z1__Topology__p01__R-Field__G-Cliff__B-Summit.png",
+            "layerType": "Topology",
+            "page": 1,
+            "mapping": {
+                "r": "Field",
+                "g": "Cliff",
+                "b": "Summit",
+                "rIndex": 0,
+                "gIndex": 1,
+                "bIndex": 2
+            }
+        },
+        {
+            "fileName": "R1Z1__Topology__p02__R-Beachside__G-Beach__B-Forest.png",
+            "layerType": "Topology",
+            "page": 2,
+            "mapping": {
+                "r": "Beachside",
+                "g": "Beach",
+                "b": "Forest",
+                "rIndex": 3,
+                "gIndex": 4,
+                "bIndex": 5
+            }
+        },
+        {
+            "fileName": "R1Z1__Topology__p03__R-Forestside__G-Ocean__B-Oceanside.png",
+            "layerType": "Topology",
+            "page": 3,
+            "mapping": {
+                "r": "Forestside",
+                "g": "Ocean",
+                "b": "Oceanside",
+                "rIndex": 6,
+                "gIndex": 7,
+                "bIndex": 8
+            }
+        },
+        {
+            "fileName": "R1Z1__Topology__p04__R-Decor__G-Monument__B-Road.png",
+            "layerType": "Topology",
+            "page": 4,
+            "mapping": {
+                "r": "Decor",
+                "g": "Monument",
+                "b": "Road",
+                "rIndex": 9,
+                "gIndex": 10,
+                "bIndex": 11
+            }
+        },
+        {
+            "fileName": "R1Z1__Topology__p05__R-Roadside__G-Swamp__B-River.png",
+            "layerType": "Topology",
+            "page": 5,
+            "mapping": {
+                "r": "Roadside",
+                "g": "Swamp",
+                "b": "River",
+                "rIndex": 12,
+                "gIndex": 13,
+                "bIndex": 14
+            }
+        },
+        {
+            "fileName": "R1Z1__Topology__p06__R-Riverside__G-Lake__B-Lakeside.png",
+            "layerType": "Topology",
+            "page": 6,
+            "mapping": {
+                "r": "Riverside",
+                "g": "Lake",
+                "b": "Lakeside",
+                "rIndex": 15,
+                "gIndex": 16,
+                "bIndex": 17
+            }
+        },
+        {
+            "fileName": "R1Z1__Topology__p07__R-Offshore__G-Powerline__B-Runway.png",
+            "layerType": "Topology",
+            "page": 7,
+            "mapping": {
+                "r": "Offshore",
+                "g": "Powerline",
+                "b": "Runway",
+                "rIndex": 18,
+                "gIndex": 19,
+                "bIndex": 20
+            }
+        },
+        {
+            "fileName": "R1Z1__Topology__p08__R-Building__G-Cliffside__B-Mountain.png",
+            "layerType": "Topology",
+            "page": 8,
+            "mapping": {
+                "r": "Building",
+                "g": "Cliffside",
+                "b": "Mountain",
+                "rIndex": 21,
+                "gIndex": 22,
+                "bIndex": 23
+            }
+        },
+        {
+            "fileName": "R1Z1__Topology__p09__R-Clutter__G-Alt__B-Tier0.png",
+            "layerType": "Topology",
+            "page": 9,
+            "mapping": {
+                "r": "Clutter",
+                "g": "Alt",
+                "b": "Tier0",
+                "rIndex": 24,
+                "gIndex": 25,
+                "bIndex": 26
+            }
+        },
+        {
+            "fileName": "R1Z1__Topology__p10__R-Tier1__G-Tier2__B-Mainland.png",
+            "layerType": "Topology",
+            "page": 10,
+            "mapping": {
+                "r": "Tier1",
+                "g": "Tier2",
+                "b": "Mainland",
+                "rIndex": 27,
+                "gIndex": 28,
+                "bIndex": 29
+            }
+        },
+        {
+            "fileName": "R1Z1__Topology__p11__R-Hilltop__G-None__B-None.png",
+            "layerType": "Topology",
+            "page": 11,
+            "mapping": {
+                "r": "Hilltop",
+                "g": "None",
+                "b": "None",
+                "rIndex": 30,
+                "gIndex": -1,
+                "bIndex": -1
+            }
+        },
+        {
+            "fileName": "R1Z1__Holes.png",
+            "layerType": "Holes",
+            "page": 0,
+            "mapping": {
+                "r": "Visible",
+                "g": "None",
+                "b": "None",
+                "rIndex": -1,
+                "gIndex": -1,
+                "bIndex": -1
+            }
+        }
+    ]
+}

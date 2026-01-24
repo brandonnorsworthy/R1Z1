@@ -1,0 +1,2 @@
+Texture extracting/importing being handled by custom fork of RustMapEditor from this GitHub: https://github.com/te-chan/RustMapEditor
+Textures exported from R1Z1 Test map, can now be edited in external software for later importing into R1Z1.
