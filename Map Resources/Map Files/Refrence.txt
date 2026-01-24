@@ -1,0 +1,4 @@
+Maps listed here are for refrence only due to the sensativity of their content.
+
+R1Z1_Heightmap.map
+R1Z1_Blockout_Heightmap.map
