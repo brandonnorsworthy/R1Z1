@@ -1,4 +1,6 @@
 # R1Z1
+@StaticNoise whats your discord i forgot
+
  h1z1 remake within rust
 
 2026 Reboot!
