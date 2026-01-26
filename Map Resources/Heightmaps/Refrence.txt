@@ -4,7 +4,21 @@ H1Z1 Heightmap.png
 H1Z1 Heightmap.raw
 H1Z1 Heightmap 8k.png
 H1Z1 Heightmap 8k.raw
+H1Z1 Heightmap + Roads.png
+H1Z1 Heightmap + Roads.raw
+H1Z1 Heightmap + Roads 8k.png
+H1Z1 Heightmap + Roads 8k.raw
+H1Z1 Heightmap + Roads + Water.png
+H1Z1 Heightmap + Roads + Water.raw
+H1Z1 Heightmap + Roads + Water 8k.png
+H1Z1 Heightmap + Roads + Water 8k.raw
 H1Z1 Blockout Heightmap.png
 H1Z1 Blockout Heightmap.raw
 H1Z1 Blockout Heightmap 8k.png
 H1Z1 Blockout Heightmap 8k.raw
+H1Z1 Texturemap.png
+H1Z1 Texturemap 8k.png
+H1Z1 Texturemap + Roads.png
+H1Z1 Texturemap + Roads 8k.png
+H1Z1 Texturemap + Roads + Water.png
+H1Z1 Texturemap + Roads + Water 8k.png

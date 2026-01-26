@@ -1,10 +1,9 @@
 Terrain Map Import Settings:
 -Map Size: 6000
 -Heightmap Resolution: 4097
--Alphamap Resoltuion: 4096
+-Alphamap Resolution: 4096
 -Splat Texture: Grass
 -Biome: Temperate
-
 Minimum Range: 0
 Maximum Range: 539
 Smoothing Passes: 5
@@ -13,10 +12,20 @@ Smoothing Passes: 5
 Blockout Map Import Settings:
 -Map Size: 6000
 -Heightmap Resolution: 4097
--Alphamap Resoltuion: 4096
+-Alphamap Resolution: 4096
 -Splat Texture: Grass
 -Biome: Temperate
+Minimum Range: 0
+Maximum Range: 539
+Smoothing Passes: 0
 
+
+Water Level Map Import Settings:
+-Map Size: 6000
+-Heightmap Resolution: 4097
+-Alphamap Resolution: 4096
+-Splat Texture: Grass
+-Biome: Temperate
 Minimum Range: 0
 Maximum Range: 539
 Smoothing Passes: 0
