@@ -1,6 +1,9 @@
 # R1Z1
 @StaticNoise whats your discord i forgot
 
+It's StaticNoize
+I also forgot yours :O was hoping you'd see updates and reach out :P
+
  h1z1 remake within rust
 
 2026 Reboot!
