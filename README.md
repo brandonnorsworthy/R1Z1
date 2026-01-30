@@ -1,7 +1,11 @@
 # R1Z1
 @StaticNoise whats your discord i forgot
 
- h1z1 remake within rust
+It's StaticNoize
+<br/>
+I also forgot yours :O I was hoping you'd see the updates and reach out :P
+
+H1Z1 remake within Rust
 
 2026 Reboot!
 
@@ -29,24 +33,24 @@ Map Version To Be Developed:
 -Survival
 <br/>
 
-Survival version could stem off the BR version but add in a custom subway underground or trading posts/ custom monuments to compensate for the missing Rust Vanilla ones.
+Survival version could stem off the BR version to cut on dev time. Would add in a custom subway underground, trading posts/custom monuments to compensate for the missing Rust Vanilla ones, or really whatever. Design choices to be made plus ones not listed.
 
 Design choices to be made:
 <br/>
-•Cargo Ship:
+•Cargo Ship: (Pick One)
 <br/>
- -Turn map into island for Cargo Ship spawn
+ -Turn map into an island for vanilla style Cargo Ship spawn
  <br/>
  -Cut out entrance/exit for Cargo Ship and have it follow the ingame river system
  <br/>
  -Ommit including the Cargo Ship
  <br/>
 
-•Underwater Labs:
+•Underwater Labs: (Pick One)
 <br/>
  -Hollow out existing lakes and put them in the lakes
  <br/>
- -Turn map into island for Vanilla type spawning
+ -Turn map into an island for Vanilla type spawning of labs
  <br/>
 
 •Bradley Spawn:
