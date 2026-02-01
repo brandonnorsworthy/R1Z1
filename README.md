@@ -47,7 +47,8 @@ Survival version could stem off the BR version to cut on dev time. Would add in 
 
 **Design choices to be made**:
 <br/>
--Cargo Ship: (Pick One)
+
+-**Cargo Ship**: (Pick One)
 <br/>
  •Turn map into an island for vanilla style Cargo Ship spawn
  <br/>
