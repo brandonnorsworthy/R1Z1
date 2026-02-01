@@ -40,6 +40,7 @@ Also created a standalone map viewing software for use as refrence on a second m
 **Map Version To Be Developed**:
 <br/>
 -Battle Royal
+<br/>
 -Survival
 
 Survival version could stem off the BR version to cut on dev time. Would add in a custom subway underground, trading posts/custom monuments to compensate for the missing Rust Vanilla ones, or really whatever. Design choices to be made plus ones not listed.
