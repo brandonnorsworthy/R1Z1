@@ -13,7 +13,7 @@ I also forgot yours :O I was hoping you'd see the updates and reach out :P
 Successfully imported H1Z1 Game into Unity and exported a full terrain heightmap as well as a building blockout heightmap in 8k and 4k.
 <br/>
 
-Also created a standalone map viewing software for use as refrence on a second monitor. Can fly around and toggle objects/buildings and other features.
+Also created a standalone map viewing software for use as reference without the overhead of the Unity Editor. Can fly around and toggle objects/buildings and other features.
 <br/>
 
 *R1Z1 Terrain*
