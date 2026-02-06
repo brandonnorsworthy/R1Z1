@@ -1,6 +1,8 @@
 # R1Z1
 @StaticNoise whats your discord i forgot
 
+@brandonnorsworthy
+<br/>
 It's staticnoize
 <br/>
 I also forgot yours :O I was hoping you'd see the updates and reach out :P
